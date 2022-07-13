@@ -9,4 +9,6 @@ LOADING畫面
 透視城隍-使用720環景框架Panolens.js
 <img width="946" alt="image" src="https://user-images.githubusercontent.com/103388599/178665282-83c485cd-0321-4f19-ae7d-8588bacaf9de.png">
 
+使用mediapipe機器學習多媒體框架，辨認手勢「YA」 火雞站在手指上
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/103388599/178666073-70d6657c-7873-4d2d-a0c5-03c907ba1b95.png">
 
